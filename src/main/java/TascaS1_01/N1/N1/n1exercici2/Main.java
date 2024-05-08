@@ -1,4 +1,4 @@
-package TascaS1_01.N1.n1exercici2;
+package TascaS1_01.N1.N1.n1exercici2;
 
 public class Main {
     public static void main(String[] args) {
