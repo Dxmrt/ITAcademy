@@ -33,7 +33,7 @@ public class Entrada {
             System.out.println(missatge);
             return scanner.nextFloat();
         } catch (InputMismatchException e) {
-            System.out.println("Error de format. Si us plau, introdueixi un nombre de virgula flotant.");
+            System.out.println("Error de format. Si us plau, introdueixi un nom flotant.");
             scanner.nextLine();
             return llegirFloat(missatge);
         }
@@ -44,7 +44,7 @@ public class Entrada {
             System.out.println(missatge);
             return scanner.nextDouble();
         } catch (InputMismatchException e) {
-            System.out.println("Error de format. Si us plau, introdueixi un nombre de doble precisió.");
+            System.out.println("Error de format. Si us plau, introdueixi un numero de doble precisió.");
             scanner.nextLine();
             return llegirDouble(missatge);
         }
@@ -58,7 +58,7 @@ public class Entrada {
             String resposta = scanner.nextLine().trim().toLowerCase();
             return resposta.equals("t") || resposta.equals("true");
         } catch (Exception e) {
-            System.out.println("Error de format. Si us plau, introdueixi \"t\" (per a \'true\') o \"f\" (per a \'false\').");
+            System.out.println("Error de format. Si us plau, introdueixi t (per a true) o f (per a false).");
             scanner.nextLine();
             return llegirBoolean(missatge);
         }
@@ -69,7 +69,7 @@ public class Entrada {
             System.out.println(missatge);
             String entrada = scanner.nextLine();
             if (entrada.matches("\\d+")) { // Comprova si l'entrada conté només nombres
-                System.out.println("Error: La resposta ha de ser una lletra, no un nombre.");
+                System.out.println("Error: La resposta ha de ser una lletra, no un nom.");
             } else {
                 letra = entrada.charAt(0); // Obté la primera lletra de l'entrada
             }
@@ -82,7 +82,7 @@ public class Entrada {
             System.out.println(missatge);
             nombre = scanner.nextLine();
             if (nombre.matches(".*\\d.*")) { // Comprova si el nombre conté nombres
-                System.out.println("Error: El nombre no pot contenir nombres.");
+                System.out.println("Error de format. Si us plau, introdueixi un nom.");
             }
         } while (nombre.matches(".*\\d.*")); // Repeteix la sol·licitud fins que l'usuari/ària ingressi un nombre vàlid
         return nombre;

@@ -9,19 +9,18 @@ public class Principal {
 
 
         // Utilitzar los metodos de las clases Entrada i Principal
-        String nombre = Entrada.llegirString("Introduce tu nombre: ");
-        char letra = Entrada.llegirChar("Introduce tu letra favorita: ");
-        double doble = Entrada.llegirDouble("Introduce un numero de precision: ");
-        int numero = Entrada.llegirInt("Introduce tu numero preferido: ");
-        byte edad = Entrada.llegirByte("Introduce tu edad: ");
-        float saldo = Entrada.llegirFloat("Introduce tu saldo: ");
-        System.out.println("Introduce un valor booleano (T para \'true\' o F para \'false\'): ");
-        boolean valorBooleano = Entrada.llegirBoolean("");
-        System.out.println("El valor booleà introduït és: " + valorBooleano);
+        String nombre = Entrada.llegirString("Introdueix el teu nom: ");
+        char letra = Entrada.llegirChar("Introdueix la teva lletra preferida: ");
+        double doble = Entrada.llegirDouble("Introdueix un numero de precisio: ");
+        int numero = Entrada.llegirInt("Introdueix el teu numero preferit: ");
+        byte edad = Entrada.llegirByte("Introdueix la teva edad: ");
+        float saldo = Entrada.llegirFloat("Introdueix el teu saldo: ");
+        boolean valorBooleano = Entrada.llegirBoolean("Introdueix true T or false F: ");
+
 
 
         if (edad != -1 && saldo != -1f) {
-            System.out.println("Hola, " + nombre + "!" + " Su letra favorita es:  " + letra + " su numero de precision es: " + doble + " su edad es de " + edad + " años" + " su numero preferido es el " + numero + " y su saldo es de " + saldo + "€.");
+            System.out.println("Hola, " + nombre + "!" + " la teva lletra preferida es: " + letra + " el seu numero de precisio es: " + doble + " la seva edad es de " + edad + " anys" + " el seu numero preferit es el " + numero + " i el seu saldo es de " + saldo + "€." + "el valor boolean es: " + valorBooleano);
         }
 
         scanner.close();
