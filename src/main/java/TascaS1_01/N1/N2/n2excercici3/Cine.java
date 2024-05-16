@@ -108,7 +108,7 @@ public class Cine {
             try {
                 throw new ExcepcioNomPersonaIncorrecte();
             } catch (ExcepcioNomPersonaIncorrecte e) {
-                throw new RuntimeException(e);
+                System.out.println(e.getMessage() + "El nom es incorrecte");
             }
         }
         return persona;
@@ -119,7 +119,7 @@ public class Cine {
             try {
                 throw new ExcepcioFilaIncorrecta();
             } catch (ExcepcioFilaIncorrecta e) {
-                throw new RuntimeException(e);
+                System.out.println(e.getMessage() + "La fila es incorrecta");
             }
         }
         return fila;
@@ -130,7 +130,7 @@ public class Cine {
             try {
                 throw new ExcepcioSeientIncorrecte();
             } catch (ExcepcioSeientIncorrecte e) {
-                throw new RuntimeException(e);
+                System.out.println(e.getMessage() + "El seient es incorrecte");
             }
         }
         return seient;

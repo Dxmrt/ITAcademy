@@ -12,9 +12,9 @@ public class Entrada {
             return scanner.nextByte();
         } catch (InputMismatchException e) {
             System.out.println("Error de format. Si us plau, introdueixi un byte.");
-            scanner.nextLine(); // Neteja la línia en error
-            return llegirByte(missatge); // Repeteix la sol·licitud fins que s'introduïxi correctament
+            scanner.nextLine(); // Neteja la línia
         }
+        return llegirByte(missatge); // Repeteix la sol·licitud fins que s'introduïxi correctament
     }
 
     public static int llegirInt(String missatge) {
@@ -24,8 +24,8 @@ public class Entrada {
         } catch (InputMismatchException e) {
             System.out.println("Error de format. Si us plau, introdueixi un enter.");
             scanner.nextLine();
-            return llegirInt(missatge);
         }
+        return llegirInt(missatge);
     }
 
     public static float llegirFloat(String missatge) {
@@ -35,8 +35,8 @@ public class Entrada {
         } catch (InputMismatchException e) {
             System.out.println("Error de format. Si us plau, introdueixi un nom flotant.");
             scanner.nextLine();
-            return llegirFloat(missatge);
         }
+        return llegirFloat(missatge);
     }
 
     public static double llegirDouble(String missatge) {
@@ -46,8 +46,8 @@ public class Entrada {
         } catch (InputMismatchException e) {
             System.out.println("Error de format. Si us plau, introdueixi un numero de doble precisió.");
             scanner.nextLine();
-            return llegirDouble(missatge);
         }
+        return llegirDouble(missatge);
     }
 
 
@@ -60,9 +60,10 @@ public class Entrada {
         } catch (Exception e) {
             System.out.println("Error de format. Si us plau, introdueixi t (per a true) o f (per a false).");
             scanner.nextLine();
-            return llegirBoolean(missatge);
         }
+        return llegirBoolean(missatge);
     }
+
     public static char llegirChar(String missatge) {
         char letra = 0;
         do {
@@ -76,6 +77,7 @@ public class Entrada {
         } while (letra == '\0'); // Repeteix la sol·licitud fins que l'usuari/ària ingressi una lletra
         return letra;
     }
+
     public static String llegirString(String missatge) {
         String nombre;
         do {
