@@ -5,8 +5,8 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class Restaurant implements Comparable<Restaurant> {
-    private String nom;
-    private int puntuacio;
+    private final String nom;
+    private final int puntuacio;
 
     // Constructor
     public Restaurant(String nom, int puntuacio) {
@@ -19,9 +19,6 @@ public class Restaurant implements Comparable<Restaurant> {
         return nom;
     }
 
-    public int getPuntuacio() {
-        return puntuacio;
-    }
 
     // Sobrescrivim equals per saber si els dos restaurants són iguals i si tenen el mateix nom i punts
     @Override
