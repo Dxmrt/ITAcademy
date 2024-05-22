@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Llista de mesos: " + monthList);
 
         monthList.add(7, new Month("Agost")); //Afegim Agost a la posicio 7
-        System.out.println("Llista de mesos: " + monthList);
+        System.out.println("Llista de mesos amb Agost: " + monthList);
 
         HashSet<Month> monthsSet = new HashSet<>(monthList); //Converteix ArrayList en un HashSet
         System.out.println(monthsSet);
