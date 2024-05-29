@@ -5,10 +5,19 @@ public class Treballador {
     protected String cognom;
     protected double preuHora;
 
+
     public Treballador(String nom, String cognom, double preuHora) {
         this.nom = nom;
         this.cognom = cognom;
         this.preuHora = preuHora;
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public void setNom(String nom) {
+        this.nom = nom;
     }
 
 

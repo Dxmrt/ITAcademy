@@ -9,8 +9,11 @@ public class TreballadorOnline extends Treballador {
         super(nom, cognom, preuHora);
     }
 
-    public double calcularSouOnline(double horesTreballades) {
 
-        return horesTreballades * preuHora + PREU_INTERNET;
+    @Deprecated
+    public void imprimirDetalls() {
+        System.out.println("Nom: " + nom + "Cognom: " + cognom);
     }
+
+
 }

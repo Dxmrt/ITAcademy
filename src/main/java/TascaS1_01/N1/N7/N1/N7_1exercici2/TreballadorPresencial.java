@@ -9,8 +9,16 @@ public class TreballadorPresencial extends Treballador {
         super(nom, cognom, preuHora);
     }
 
-    public double calcularSouPresencial(double horesTreballades) {
-        return horesTreballades * preuHora + BENZINA;
+
+
+    @Deprecated
+    public double calcularSouAntic(double horesTreballades) {
+        return horesTreballades * getPreuHora();
+    }
+
+
+    public double getPreuHora() {
+        return preuHora;
     }
 
 
