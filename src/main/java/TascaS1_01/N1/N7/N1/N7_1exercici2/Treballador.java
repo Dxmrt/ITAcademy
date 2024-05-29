@@ -11,8 +11,5 @@ public class Treballador {
         this.preuHora = preuHora;
     }
 
-    public double calcularSou(double horesTreballades) {
 
-        return horesTreballades * preuHora;
-    }
 }

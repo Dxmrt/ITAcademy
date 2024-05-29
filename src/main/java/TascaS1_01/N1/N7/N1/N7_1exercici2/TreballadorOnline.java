@@ -9,7 +9,7 @@ public class TreballadorOnline extends Treballador {
         super(nom, cognom, preuHora);
     }
 
-    public double calcularSouOnline(double horesTreballades, int i) {
+    public double calcularSouOnline(double horesTreballades) {
 
         return horesTreballades * preuHora + PREU_INTERNET;
     }

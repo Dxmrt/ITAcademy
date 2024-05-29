@@ -13,9 +13,9 @@ public class Principal {
 
 
         @SuppressWarnings("deprecation")
-        double souOnline = treballadorOnline.calcularSouOnline(120,21);
+        double souOnline = treballadorOnline.calcularSouOnline(120);
         @SuppressWarnings("deprecation")
-        double souPresencial = treballadorPresencial.calcularSouPresencial(180,1234);
+        double souPresencial = treballadorPresencial.calcularSouPresencial(180);
 
         System.out.println("Sous previous actualizacio:");
         System.out.println("Treballador online: " + souOnline);

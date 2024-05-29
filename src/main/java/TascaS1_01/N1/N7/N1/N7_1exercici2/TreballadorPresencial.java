@@ -9,7 +9,7 @@ public class TreballadorPresencial extends Treballador {
         super(nom, cognom, preuHora);
     }
 
-    public double calcularSouPresencial(double horesTreballades, int i) {
+    public double calcularSouPresencial(double horesTreballades) {
         return horesTreballades * preuHora + BENZINA;
     }
 
