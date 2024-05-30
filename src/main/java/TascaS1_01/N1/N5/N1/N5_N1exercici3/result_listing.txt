@@ -148,3 +148,141 @@
 / / / / [D] N8_1exercici8 - Ultima modificacio: Tue May 28 15:35:06 CEST 2024
 / / / / / / [F] Main.java - Ultima modificacio: Tue May 28 15:35:06 CEST 2024
 / / / / / / [F] ReverseString.java - Ultima modificacio: Tue May 28 15:35:06 CEST 2024
+[D] A - Ultima modificacio: Wed May 29 12:25:11 CEST 2024
+[D] N1 - Ultima modificacio: Tue May 14 21:04:58 CEST 2024
+/ / [D] n1exercici1 - Ultima modificacio: Tue May 14 11:33:14 CEST 2024
+/ / / / [F] Instrument.java - Ultima modificacio: Tue May 14 11:25:13 CEST 2024
+/ / / / [F] Main.java - Ultima modificacio: Tue May 14 11:25:13 CEST 2024
+/ / / / [F] Percussion.java - Ultima modificacio: Tue May 14 11:25:13 CEST 2024
+/ / / / [F] Rope.java - Ultima modificacio: Tue May 14 11:25:13 CEST 2024
+/ / / / [F] Wind.java - Ultima modificacio: Tue May 14 11:25:13 CEST 2024
+/ / [D] n1exercici2 - Ultima modificacio: Tue May 14 11:32:53 CEST 2024
+/ / / / [F] Car.java - Ultima modificacio: Wed May 08 22:07:58 CEST 2024
+/ / / / [F] Main.java - Ultima modificacio: Wed May 08 22:42:13 CEST 2024
+/ / / / [F] README - Ultima modificacio: Tue May 14 11:32:53 CEST 2024
+/ / [D] n1exercici3 - Ultima modificacio: Tue May 14 11:32:53 CEST 2024
+/ / / / [F] Camera.java - Ultima modificacio: Wed May 08 22:42:17 CEST 2024
+/ / / / [F] Main.java - Ultima modificacio: Wed May 08 22:42:17 CEST 2024
+/ / / / [F] README - Ultima modificacio: Tue May 14 11:32:53 CEST 2024
+/ / / / [F] Smartphone.java - Ultima modificacio: Wed May 08 22:42:17 CEST 2024
+/ / / / [F] Telephone.java - Ultima modificacio: Wed May 08 22:42:17 CEST 2024
+/ / / / [F] Watch.java - Ultima modificacio: Wed May 08 22:42:17 CEST 2024
+/ / [D] n1exercisi4 - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Basket.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] F1.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Futbol.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Main.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Moto.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Noticia.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Programa.java - Ultima modificacio: Sat May 18 23:16:02 CEST 2024
+/ / / / [F] README - Ultima modificacio: Tue May 14 11:32:53 CEST 2024
+/ / / / [F] Redactor.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+/ / / / [F] Tenis.java - Ultima modificacio: Sat May 18 23:17:38 CEST 2024
+[D] N2 - Ultima modificacio: Tue May 14 11:33:15 CEST 2024
+/ / [D] n2excercici3 - Ultima modificacio: Thu May 16 10:38:17 CEST 2024
+/ / / / [F] Butaca.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] Cine.java - Ultima modificacio: Thu May 16 10:38:17 CEST 2024
+/ / / / [F] ExcepcioButacaOcupada.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] ExcepcioFilaIncorrecta.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] ExcepcioNomPersonaIncorrecte.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] ExcepcioSeientIncorrecte.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] GestioButaques.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] MenuCinema.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / [D] n2exercisi1 - Ultima modificacio: Tue May 14 11:33:15 CEST 2024
+/ / / / [F] Principal.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] Producto.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] Venda.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / / / [F] VendaBuidaException.java - Ultima modificacio: Tue May 14 11:10:41 CEST 2024
+/ / [D] n2exercisi2 - Ultima modificacio: Thu May 16 10:43:34 CEST 2024
+/ / / / [F] Entrada.java - Ultima modificacio: Thu May 16 10:43:34 CEST 2024
+/ / / / [F] Principal.java - Ultima modificacio: Tue May 14 21:12:54 CEST 2024
+[D] N3 - Ultima modificacio: Sun May 19 17:34:43 CEST 2024
+/ / [D] N1 - Ultima modificacio: Tue May 21 11:19:21 CEST 2024
+/ / / / [D] N3_1_1exercisi1 - Ultima modificacio: Wed May 22 20:38:13 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 22 20:38:13 CEST 2024
+/ / / / / / [F] Month.java - Ultima modificacio: Tue May 21 12:02:11 CEST 2024
+/ / / / [D] N3_1_2exercisi2 - Ultima modificacio: Wed May 22 20:36:47 CEST 2024
+/ / / / / / [F] Llista.java - Ultima modificacio: Wed May 22 20:36:47 CEST 2024
+/ / [D] N2 - Ultima modificacio: Sat May 18 23:55:48 CEST 2024
+/ / / / [D] N3_2_1exercici1 - Ultima modificacio: Wed May 22 20:59:04 CEST 2024
+/ / / / / / [F] Restaurant.java - Ultima modificacio: Wed May 22 20:59:04 CEST 2024
+/ / / / [D] N3_2_2exercici2 - Ultima modificacio: Wed May 22 20:59:04 CEST 2024
+/ / / / / / [F] Restaurant.java - Ultima modificacio: Wed May 22 20:59:04 CEST 2024
+/ / [D] N3 - Ultima modificacio: Tue May 21 11:49:58 CEST 2024
+/ / / / [F] CrearCSV.java - Ultima modificacio: Sat May 18 23:56:02 CEST 2024
+/ / / / [F] Persona.java - Ultima modificacio: Tue May 21 11:49:58 CEST 2024
+/ / / / [F] Principal.java - Ultima modificacio: Sat May 18 23:56:02 CEST 2024
+[D] N4 - Ultima modificacio: Sun May 19 17:47:42 CEST 2024
+/ / [D] N1 - Ultima modificacio: Sun May 19 17:46:34 CEST 2024
+/ / / / [D] N4_1exercici1 - Ultima modificacio: Mon May 27 10:45:35 CEST 2024
+/ / / / / / [F] MesosAnys.java - Ultima modificacio: Wed May 22 21:08:29 CEST 2024
+/ / / / [D] N4_1exercici2 - Ultima modificacio: Mon May 27 10:47:04 CEST 2024
+/ / / / / / [F] CalculoDni.java - Ultima modificacio: Wed May 22 20:18:35 CEST 2024
+/ / / / [D] N4_1exercici3 - Ultima modificacio: Mon May 27 10:50:34 CEST 2024
+/ / / / / / [F] ArrayIndexOutOfBoundsDemo.java - Ultima modificacio: Mon May 27 10:32:18 CEST 2024
+/ / [D] N2 - Ultima modificacio: Sun May 19 17:47:42 CEST 2024
+[D] N5 - Ultima modificacio: Wed May 29 10:09:45 CEST 2024
+/ / [D] N1 - Ultima modificacio: Tue May 28 20:29:37 CEST 2024
+/ / / / [D] N5_N1exercici1 - Ultima modificacio: Tue May 28 20:00:25 CEST 2024
+/ / / / / / [F] DirectoryList.java - Ultima modificacio: Tue May 28 19:47:21 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 19:47:21 CEST 2024
+/ / / / / / [F] readme.txt - Ultima modificacio: Tue May 28 20:00:25 CEST 2024
+/ / / / [D] N5_N1exercici2 - Ultima modificacio: Wed May 29 09:36:20 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 09:36:20 CEST 2024
+/ / / / / / [F] readme.txt - Ultima modificacio: Tue May 28 20:03:13 CEST 2024
+/ / / / [D] N5_N1exercici3 - Ultima modificacio: Tue May 28 20:18:47 CEST 2024
+/ / / / / / [F] ListDirectory.java - Ultima modificacio: Tue May 28 20:12:31 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 20:14:30 CEST 2024
+/ / / / / / [F] readme.txt - Ultima modificacio: Tue May 28 20:18:47 CEST 2024
+/ / / / / / [F] result_listing.txt - Ultima modificacio: Wed May 29 12:27:48 CEST 2024
+/ / / / [D] N5_N1exercici4 - Ultima modificacio: Wed May 29 10:13:36 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 20:26:02 CEST 2024
+/ / / / / / [F] readme.txt - Ultima modificacio: Wed May 29 10:13:36 CEST 2024
+/ / / / / / [F] ReadTxt.java - Ultima modificacio: Tue May 28 20:24:38 CEST 2024
+/ / / / [D] N5_N1exercici5 - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+/ / / / / / [F] DirectoryDesserialitzar.java - Ultima modificacio: Tue May 28 20:52:43 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 20:51:45 CEST 2024
+/ / / / / / [F] Player.java - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+/ / / / / / [F] readme.txt - Ultima modificacio: Wed May 29 10:19:27 CEST 2024
+/ / / / / / [F] SerializeDirectory.java - Ultima modificacio: Wed May 29 09:41:37 CEST 2024
+[D] N6 - Ultima modificacio: Mon May 27 12:05:26 CEST 2024
+/ / [D] N1 - Ultima modificacio: Mon May 27 10:21:28 CEST 2024
+/ / / / [D] N6_1exercici1 - Ultima modificacio: Wed May 29 10:40:38 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 10:33:47 CEST 2024
+/ / / / / / [F] NoGenericMethods.java - Ultima modificacio: Wed May 29 10:40:38 CEST 2024
+/ / / / [D] N6_1exercici2 - Ultima modificacio: Wed May 29 10:37:16 CEST 2024
+/ / / / / / [F] GenericMethods.java - Ultima modificacio: Wed May 29 10:36:04 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 10:37:16 CEST 2024
+/ / / / / / [F] Persona.java - Ultima modificacio: Wed May 29 10:29:44 CEST 2024
+[D] N7 - Ultima modificacio: Mon May 27 11:17:20 CEST 2024
+/ / [D] N1 - Ultima modificacio: Tue May 28 21:05:30 CEST 2024
+/ / / / [D] N7_1exercici1_2 - Ultima modificacio: Tue May 28 21:20:16 CEST 2024
+/ / / / / / [F] Principal.java - Ultima modificacio: Tue May 28 21:05:38 CEST 2024
+/ / / / / / [F] Treballador.java - Ultima modificacio: Tue May 28 21:20:16 CEST 2024
+/ / / / / / [F] TreballadorOnline.java - Ultima modificacio: Tue May 28 21:10:01 CEST 2024
+/ / / / / / [F] TreballadorPresencial.java - Ultima modificacio: Tue May 28 21:10:02 CEST 2024
+/ / / / [D] N7_1exercici2 - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+/ / / / / / [F] Principal.java - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+/ / / / / / [F] Treballador.java - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+/ / / / / / [F] TreballadorOnline.java - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+/ / / / / / [F] TreballadorPresencial.java - Ultima modificacio: Wed May 29 12:10:45 CEST 2024
+[D] N8 - Ultima modificacio: Tue May 28 15:17:31 CEST 2024
+/ / [D] N1 - Ultima modificacio: Tue May 28 15:33:37 CEST 2024
+/ / / / [D] N8_1exercici1 - Ultima modificacio: Tue May 28 15:23:48 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 15:23:48 CEST 2024
+/ / / / [D] N8_1exercici2 - Ultima modificacio: Tue May 28 15:24:21 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 15:24:21 CEST 2024
+/ / / / [D] N8_1exercici3 - Ultima modificacio: Wed May 29 09:58:43 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 09:58:43 CEST 2024
+/ / / / [D] N8_1exercici4 - Ultima modificacio: Wed May 29 09:59:07 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 09:59:07 CEST 2024
+/ / / / [D] N8_1exercici5 - Ultima modificacio: Tue May 28 15:29:18 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 15:29:02 CEST 2024
+/ / / / / / [F] PiValue.java - Ultima modificacio: Tue May 28 15:29:18 CEST 2024
+/ / / / [D] N8_1exercici6 - Ultima modificacio: Wed May 29 11:03:03 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 11:03:03 CEST 2024
+/ / / / [D] N8_1exercici7 - Ultima modificacio: Wed May 29 10:04:43 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Wed May 29 10:04:43 CEST 2024
+/ / / / [D] N8_1exercici8 - Ultima modificacio: Tue May 28 15:35:06 CEST 2024
+/ / / / / / [F] Main.java - Ultima modificacio: Tue May 28 15:35:06 CEST 2024
+/ / / / / / [F] ReverseString.java - Ultima modificacio: Tue May 28 15:35:06 CEST 2024

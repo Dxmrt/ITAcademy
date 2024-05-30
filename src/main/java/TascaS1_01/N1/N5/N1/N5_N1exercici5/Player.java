@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 public class Player implements Serializable {
 
-    private String name;
-    private int age;
+    private final String name;
+    private final int age;
 
     public Player(String name, int age){
         this.name = name;
