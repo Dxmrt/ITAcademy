@@ -18,10 +18,13 @@ CREATE TABLE Proveidors (
     proveidor_id INT AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(100) NOT NULL,
     adreca_id INT,
+    marca_id INT,
     telefon VARCHAR(15),
     fax VARCHAR(15),
     nif VARCHAR(15) NOT NULL,
-    FOREIGN KEY (adreca_id) REFERENCES Adreces(adreca_id)
+    FOREIGN KEY (adreca_id) REFERENCES Adreces(adreca_id),
+    FOREIGN KEY (marca_id) REFERENCES Marcas(marca_id)
+
 );
 
 CREATE TABLE Clients (
@@ -56,7 +59,15 @@ CREATE TABLE Ulleres (
     color_vidre_esquerre VARCHAR(30) NOT NULL,
     preu DECIMAL(10, 2) NOT NULL,
     proveidor_id INT,
-    FOREIGN KEY (proveidor_id) REFERENCES Proveidors(proveidor_id)
+    marca_id INT,
+    FOREIGN KEY (proveidor_id) REFERENCES Proveidors(proveidor_id),
+    FOREIGN KEY (marca_id) REFERENCES Marcas(marca_id)
+);
+
+
+CREATE TABLE Marcas (
+    marca_id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE Vendes (
