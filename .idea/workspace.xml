@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9361fa2-cc11-4f6a-8dad-e2276eb8fa64" name="Changes" comment="&quot;nuevo&quot;">
+    <list default="true" id="f9361fa2-cc11-4f6a-8dad-e2276eb8fa64" name="Changes" comment="Tasca S2_3">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TascaS2/mysql_estructura_MongoDB/N1/exercici1/Clients.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TascaS2/mysql_estructura_MongoDB/N1/exercici1/Optica_view.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TascaS2/mysql_estructura_MongoDB/N1/exercici2/Optica_Ulleres.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TascaS2/mysql_estructura_MongoDB/N1/exercici2/Ulleres.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/F1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/F1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Futbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Futbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Noticia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Noticia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Redactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Redactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Tenis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Tenis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,26 +96,115 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.TascaS1_01.N1.n1exercici2.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/V Room/IdeaProjects/ITAcademy",
-    "onboarding.tips.debug.path": "C:/Users/V Room/IdeaProjects/Sprint01/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Aplicacio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountryQuiz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountryQuizRun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CrearCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DirectorioRecursivo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DirectoryLister.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListarDirectorio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Llista.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuCinema.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Restaurant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RestaurantApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SaveFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N3.N1.N3_1_1exercisi1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N3.N1.N3_1_2exercisi2.Llista.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N3.N3.N1.N3_1_1exercisi1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N3.N3.N1.N3_1_2exercisi2.Llista.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N3.N3exercisi1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N3.N3exercisi2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N5.N1.N5_N1exercici1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N5.N1.N5_N1exercici2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N5.N1.N5_N1exercici3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N5.N1.N5_N1exercici4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N5.N1.N5_N1exercici5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N6.N1.N6_1exercici1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N6.N1.N6_1exercici2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.N8.N1.N8_1exercici8.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TascaS1_01.N1.n1exercici2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.ArrayIndexOutOfBoundsExceptionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayIndexOutOfBoundsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculDNITest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculDniTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculDniTest.testCalcularLletra.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.CalculDniTest.testCalculateLetter.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.CalculoDniTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MesosAnysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MesosDelAnyTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidacionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/V Room/Desktop/Opticasqlpng.png&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/V Room/IdeaProjects/Sprint01/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TascaS1_01.N1.n1exercici2.Main">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\V Room\IdeaProjects\ITAcademy\src\main\java\TascaS2\estructura_dades\N1\N1_exercici1" />
+      <recent name="C:\Users\V Room\IdeaProjects\ITAcademy\src\main\java\TascaS1_01\N1\N5\N1\N5_N1exercici1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="TascaS1_01.N1.N4.N1.N4_1exercici3" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="TascaS1_01.N1.N4.N1.N4_1exercici3" />
+      <recent name="TascaS1_01.N1.N4.N1.N4_1exercici2" />
+      <recent name="TascaS1_01.N1.N4.N1.N4_1exercici1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DirectoryLister">
+    <configuration name="DirectoryLister" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TascaS1_01.N1.N5.N1.N5_N1exercici1.DirectoryList" />
+      <module name="Sprint01" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\V Room\IdeaProjects\ITAcademy\src\main\java\TascaS1_01\N1\N5\N1\N5_N1exercici1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Llista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TascaS1_01.N1.N3.N3.N1.N3exercisi2.Llista" />
+      <module name="Sprint01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TascaS1_01.N1.N3.N3.N1.N3exercisi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TascaS1_01.N1.n1exercici1.Main" />
       <module name="Sprint01" />
@@ -124,10 +231,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculDNITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TascaS1_01.N1.N4.N1.N4_1exercici2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TascaS1_01.N1.N4.N1.N4_1exercici2" />
+      <option name="MAIN_CLASS_NAME" value="TascaS1_01.N1.N4.N1.N4_1exercici2.CalculDNITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DirectoryLister" />
+      <item itemvalue="Application.Llista" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TascaS1_01.N1.n1exercici2.Main" />
+      <item itemvalue="JUnit.CalculDNITest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TascaS1_01.N1.n1exercici2.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalculDNITest" />
+        <item itemvalue="Application.Llista" />
+        <item itemvalue="Application.TascaS1_01.N1.n1exercici2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +271,215 @@
       <option name="presentableId" value="Default" />
       <updated>1714385708875</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;N2.2&quot;">
+      <option name="closed" value="true" />
+      <created>1715714192858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715714192858</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;N2.3&quot;">
+      <option name="closed" value="true" />
+      <created>1715849212550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715849212550</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;N3&quot;">
+      <option name="closed" value="true" />
+      <created>1716285001191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285001191</updated>
+    </task>
+    <task id="LOCAL-00004" summary="N31">
+      <option name="closed" value="true" />
+      <created>1716285792810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285792810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="N32">
+      <option name="closed" value="true" />
+      <created>1716404234629</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716404234629</updated>
+    </task>
+    <task id="LOCAL-00006" summary="N32">
+      <option name="closed" value="true" />
+      <created>1716404434710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716404434710</updated>
+    </task>
+    <task id="LOCAL-00007" summary="N33">
+      <option name="closed" value="true" />
+      <created>1716404681162</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716404681162</updated>
+    </task>
+    <task id="LOCAL-00008" summary="N34">
+      <option name="closed" value="true" />
+      <created>1716404959507</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716404959507</updated>
+    </task>
+    <task id="LOCAL-00009" summary="N4">
+      <option name="closed" value="true" />
+      <created>1716798827288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716798827288</updated>
+    </task>
+    <task id="LOCAL-00010" summary="N4_1">
+      <option name="closed" value="true" />
+      <created>1716799929319</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716799929319</updated>
+    </task>
+    <task id="LOCAL-00011" summary="N4_1_Test">
+      <option name="closed" value="true" />
+      <created>1716799962968</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716799962968</updated>
+    </task>
+    <task id="LOCAL-00012" summary="N6">
+      <option name="closed" value="true" />
+      <created>1716971992456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716971992456</updated>
+    </task>
+    <task id="LOCAL-00013" summary="N6_1">
+      <option name="closed" value="true" />
+      <created>1716972047128</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716972047128</updated>
+    </task>
+    <task id="LOCAL-00014" summary="N7">
+      <option name="closed" value="true" />
+      <created>1716973938551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716973938551</updated>
+    </task>
+    <task id="LOCAL-00015" summary="N8">
+      <option name="closed" value="true" />
+      <created>1716974448295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716974448295</updated>
+    </task>
+    <task id="LOCAL-00016" summary="N5">
+      <option name="closed" value="true" />
+      <created>1716977073721</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716977073721</updated>
+    </task>
+    <task id="LOCAL-00017" summary="N7_1">
+      <option name="closed" value="true" />
+      <created>1716977456789</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716977456789</updated>
+    </task>
+    <task id="LOCAL-00018" summary="N7_2">
+      <option name="closed" value="true" />
+      <created>1717019854949</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717019854949</updated>
+    </task>
+    <task id="LOCAL-00019" summary="N7_3">
+      <option name="closed" value="true" />
+      <created>1717019917121</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717019917121</updated>
+    </task>
+    <task id="LOCAL-00020" summary="N5_1">
+      <option name="closed" value="true" />
+      <created>1717057348535</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717057348535</updated>
+    </task>
+    <task id="LOCAL-00021" summary="N7_4">
+      <option name="closed" value="true" />
+      <created>1717057585104</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717057585104</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Tasca S2 MySQL">
+      <option name="closed" value="true" />
+      <created>1718646360115</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718646360115</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Tasca S2_1 MySQL">
+      <option name="closed" value="true" />
+      <created>1718836725588</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718836725588</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Tasca S2_2 MySQL">
+      <option name="closed" value="true" />
+      <created>1718837186765</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718837186765</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Tasca S2_3">
+      <option name="closed" value="true" />
+      <created>1718837922251</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718837922251</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Tasca S2_3">
+      <option name="closed" value="true" />
+      <created>1718838480406</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838480406</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,15 +487,57 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;nuevo&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;nuevo&quot;" />
+    <MESSAGE value="&quot;N2.2&quot;" />
+    <MESSAGE value="&quot;N2.3&quot;" />
+    <MESSAGE value="&quot;N3&quot;" />
+    <MESSAGE value="N31" />
+    <MESSAGE value="N32" />
+    <MESSAGE value="N33" />
+    <MESSAGE value="N34" />
+    <MESSAGE value="N4" />
+    <MESSAGE value="N4_1" />
+    <MESSAGE value="N4_1_Test" />
+    <MESSAGE value="N6" />
+    <MESSAGE value="N6_1" />
+    <MESSAGE value="N7" />
+    <MESSAGE value="N8" />
+    <MESSAGE value="N5" />
+    <MESSAGE value="N7_1" />
+    <MESSAGE value="N7_2" />
+    <MESSAGE value="N7_3" />
+    <MESSAGE value="N5_1" />
+    <MESSAGE value="N7_4" />
+    <MESSAGE value="Tasca S2 MySQL" />
+    <MESSAGE value="Tasca S2_1 MySQL" />
+    <MESSAGE value="Tasca S2_2 MySQL" />
+    <MESSAGE value="Tasca S2_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasca S2_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -165,6 +547,15 @@
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TascaS1_01/N1/N1/n1exercisi4/Programa.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
